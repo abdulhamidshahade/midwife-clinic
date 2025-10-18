@@ -361,16 +361,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-
-#Ignore appsettings.json in PublicChannelAPI
-src/TelegramExplorer.Services/Services.PublicChannelAPI/appsettings.json
-
-#Ignore appsettings.Development.json in PublicChannelAPI
-src/TelegramExplorer.Services/Services.PublicChannelAPI/appsettings.Development.json
-
-#Ignore Services.ChannelAPI.http file in PublicChannelAPI
-src/TelegramExplorer.Services/Services.PublicChannelAPI/Services.PublicChannelAPI.http
-
-#Ignore launchSettings.json in PublicChannelAPI
-src/TelegramExplorer.Services/Services.PublicChannelAPI/Properties/launchSettings.json
